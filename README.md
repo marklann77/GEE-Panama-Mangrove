@@ -4,7 +4,7 @@
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-JavaScript-blue?logo=google-earth)
 ![Status](https://img.shields.io/badge/Status-Live-success)
 
-![Panama Mangrove Monitor Demo](Panama%Mangrove%Monitor.gif)
+![Panama Mangrove Monitor Demo](Panama-Mangrove-Monitor.gif)
 
 ## Overview
 This project provides an automated, interactive dashboard for monitoring mangrove forest health along the coastlines of Panama. By leveraging a decade of satellite time-series data, this tool identifies inter-annual variability in forest density and provides a "data-first" approach to coastal conservation.
