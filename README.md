@@ -67,7 +67,4 @@ $$NDVI = \frac{(NIR - Red)}{(NIR + Red)}$$
 
 ## Contact
 **Mark Lannaman** [LinkedIn](https://www.linkedin.com/in/mark-lannaman-177551184/)  
-[Portfolio](https://yourportfolio.com)
 
----
-*Developed as part of a geospatial monitoring initiative for the Caribbean and Central American region.*
